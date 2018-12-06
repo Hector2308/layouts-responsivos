@@ -1,0 +1,20 @@
+section{
+	padding: 10px 0;
+}
+nav ul{
+	list-style-type: none;
+	padding: 0;
+}
+header nav ul li{
+	display: inline;
+}
+
+img{
+	width: 50%;
+	height: auto;
+	float: left;
+}
+
+header nav span{
+	margin-right: 15px;
+}
